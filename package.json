@@ -1,0 +1,8 @@
+{
+  "name": "nexa-api",
+  "version": "1.0.0",
+  "description": "Nexa API powered by Vercel Serverless Functions",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
